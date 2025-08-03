@@ -14,5 +14,5 @@ by using link tag
 6.also link js file using script tag incliding source.
 
 ### GO live 
-preview: coc-by-ankita.netlify.app
+[https://coc-by-ankita.netlify.app](https://coc-by-ankita.netlify.app/)
 
